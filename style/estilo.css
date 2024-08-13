@@ -1,0 +1,15 @@
+
+h1 {
+    color: red;
+}
+
+p {
+    color: greenyellow;
+    text-align: right;
+    padding: 15% 30%;
+}
+
+.imagens {
+    width: 1000px;
+    height: 150px;
+}
